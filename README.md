@@ -19,6 +19,8 @@
 
 [![Blog](https://img.shields.io/badge/blog-stevegilham.blogspot.com-blue?logo=Blogger)](https://stevegilham.blogspot.com/)
 
+Profile image via [diffuse-the-rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest)
+
 <!--
 ### Hi there 👋
 
