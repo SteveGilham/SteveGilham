@@ -11,6 +11,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SteveGilham&repo=altcode.test)](https://github.com/SteveGilham/altcode.test)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SteveGilham&repo=altcode.fake)](https://github.com/SteveGilham/altcode.fake)
 
+## Socials
+
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109326427114758746?domain=https%3A%2F%2Fdotnet.social&style=social)](https://dotnet.social/@stevegilham)
+[![Twitter Follow](https://img.shields.io/twitter/follow/stevegilham1?style=social)](https://twitter.com/stevegilham1)
+[![Blog](https://img.shields.io/badge/blog-stevegilham.blogspot.com-blue?logo=Blogger)](https://stevegilham.blogspot.com/)
 
 <!--
 ### Hi there 👋
