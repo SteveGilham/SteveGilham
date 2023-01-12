@@ -19,7 +19,7 @@
 
 [![Blog](https://img.shields.io/badge/blog-stevegilham.blogspot.com-blue?logo=Blogger)](https://stevegilham.blogspot.com/)
 
-[![Photos](https://img.shields.io/badge/photos-flickr_photostream-blue?logo=Flickr)]([https://stevegilham.blogspot.com](https://www.flickr.com/photos/stevegilham/)
+[![Photos](https://img.shields.io/badge/photos-flickr_photostream-blue?logo=Flickr)](https://www.flickr.com/photos/stevegilham/)
 
 Profile image via [diffuse-the-rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest)
 
