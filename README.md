@@ -3,13 +3,13 @@
 ![Top Languages](./profile/top-langs.svg)
 
 ### Main project
-![AltCover](./profile/pin-AltCover.svg)
+[![AltCover](./profile/pin-AltCover.svg)](https://github.com/SteveGilham/altcover)
 
 ### Tools for the tool builder
-![Gendarme (a fork)](./profile/pin-Gendarme.svg)
-![altcode.dixon](./profile/pin-altcode.dixon.svg)
-![altcode.test](./profile/pin-altcode.test.svg)
-![altcode.fake](./profile/pin-altcode.fake.svg)
+[![Gendarme (a fork)](./profile/pin-Gendarme.svg)](https://github.com/SteveGilham/Gendarme)
+[![altcode.dixon](./profile/pin-altcode.dixon.svg)](https://github.com/SteveGilham/altcode.dixon)
+[![altcode.test](./profile/pin-altcode.test.svg)](https://github.com/SteveGilham/altcode.test)
+[![altcode.fake](./profile/pin-altcode.fake.svg)](https://github.com/SteveGilham/altcode.fake)
 
 ## Socials
 
