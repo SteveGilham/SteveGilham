@@ -1,3 +1,8 @@
+## Dashboard update
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+
 ## Dashboard
 [![Steve's github stats](https://github-readme-stats.vercel.app/api?username=SteveGilham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveGilham)](https://github.com/anuraghazra/github-readme-stats)
