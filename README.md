@@ -3,16 +3,13 @@
 ![Top Languages](./profile/top-langs.svg)
 
 ### Main project
-![Pinned](./profile/pin-AltCover.svg)
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SteveGilham&repo=AltCover)](https://github.com/SteveGilham/altcover)
+![AltCover](./profile/pin-AltCover.svg)
 
 ### Tools for the tool builder
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SteveGilham&repo=Gendarme)](https://github.com/SteveGilham/Gendarme)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SteveGilham&repo=altcode.dixon)](https://github.com/SteveGilham/altcode.dixon)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SteveGilham&repo=altcode.test)](https://github.com/SteveGilham/altcode.test)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SteveGilham&repo=altcode.fake)](https://github.com/SteveGilham/altcode.fake)
+![Gendarme (a fork)](./profile/pin-Gendarme.svg)
+![altcode.dixon](./profile/pin-altcode.dixon.svg)
+![altcode.test](./profile/pin-altcode.test.svg)
+![altcode.fake](./profile/pin-altcode.fake.svg)
 
 ## Socials
 

@@ -39,6 +39,38 @@ jobs:
           path: profile/pin-AltCover.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin card 2
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Gendarme
+          path: profile/pin-Gendarme.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card 3
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=altcode.dixon
+          path: profile/pin-altcode.dixon.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card 4
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=altcode.test
+          path: profile/pin-altcode.test.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card 5
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=altcode.fake
+          path: profile/pin-altcode.fake.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
